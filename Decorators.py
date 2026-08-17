@@ -447,6 +447,4 @@ def add(a, b):
 
 
 x = dec1(add)
-
 print(x(10, 20))
-
