@@ -1,13 +1,9 @@
 #Q1.⁠⁠Create functions add(a, b), subtract(a, b) and multiply(a, b).
-
 # Create a function calculate(operation, a, b) that accepts a function reference and performs the selected operation.
-
 # Use lambda functions to perform:
-
 # •⁠  ⁠Square of a number
 # •⁠  ⁠Cube of a number
 # •⁠  ⁠Double of a number
-
 # Add a decorator log_operation that prints "Operation started" before execution and "Operation completed" after execution.
 def add(a,b):
     return a+b
